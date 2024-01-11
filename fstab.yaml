@@ -1,2 +1,6 @@
 mountpoints:
+<<<<<<< HEAD
   /: https://drive.google.com/drive/folders/1eQricu8VSmaY12Ro_jvMDJ96YKKGe6aO
+=======
+  /: https://drive.google.com/drive/folders/1eQricu8VSmaY12Ro_jvMDJ96YKKGe6aO
+>>>>>>> 747cb9b8b2979f644223cdbf971e626505f71b4c
