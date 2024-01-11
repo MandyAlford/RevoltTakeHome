@@ -1,7 +1,12 @@
 footer {
+  font-family: "Akzidenz-Grotesk Pro Regular";
+  display: flex;
   padding: 2rem;
-  background-color: var(--light-color);
-  font-size: var(--body-font-size-s);
+  background-color: black;
+  color: white;
+  font-size: .875rem;
+  line-height: 1.125rem;
+  margin-bottom: 0;
 }
 
 footer .footer {
